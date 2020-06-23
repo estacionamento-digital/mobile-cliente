@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "22010957570",
+    "firebase_url": "https://pi-park-2020.firebaseio.com",
+    "project_id": "pi-park-2020",
+    "storage_bucket": "pi-park-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22010957570:android:553979d336134b0cf0bc1b",
+        "android_client_info": {
+          "package_name": "com.caleb.will.pi_gerente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22010957570-kk11t2n1fu964bmhjsgh65cbqlnrmiqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmTaYYGVLHcRaWLm4o-G8Euwko_A6OeF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22010957570-kk11t2n1fu964bmhjsgh65cbqlnrmiqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22010957570:android:ceb4f9788dd58036f0bc1b",
+        "android_client_info": {
+          "package_name": "com.caleb.will.pi_park"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22010957570-kk11t2n1fu964bmhjsgh65cbqlnrmiqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmTaYYGVLHcRaWLm4o-G8Euwko_A6OeF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22010957570-kk11t2n1fu964bmhjsgh65cbqlnrmiqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
